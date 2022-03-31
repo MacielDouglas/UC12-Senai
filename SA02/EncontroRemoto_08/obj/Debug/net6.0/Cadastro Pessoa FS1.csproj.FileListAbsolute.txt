@@ -1,0 +1,45 @@
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.exe
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.deps.json
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.runtimeconfig.json
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\bin\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.AssemblyReference.cache
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfoInputs.cache
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfo.cs
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.CoreCompileInputs.cache
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\douglas\Desktop\Cadastro Pessoa FS1\obj\Debug\net6.0\Cadastro Pessoa FS1.genruntimeconfig.cache
+C:\Users\douglas\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.AssemblyReference.cache
+C:\Users\douglas\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfoInputs.cache
+C:\Users\douglas\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfo.cs
+C:\Users\douglas\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.CoreCompileInputs.cache
+C:\Users\douglas\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\douglas\Desktop\EncontroRemoto_06\obj\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\douglas\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\douglas\Desktop\EncontroRemoto_06\bin\Debug\net6.0\Cadastro Pessoa FS1.exe
+C:\Users\douglas\Desktop\EncontroRemoto_06\bin\Debug\net6.0\Cadastro Pessoa FS1.deps.json
+C:\Users\douglas\Desktop\EncontroRemoto_06\bin\Debug\net6.0\Cadastro Pessoa FS1.runtimeconfig.json
+C:\Users\douglas\Desktop\EncontroRemoto_06\bin\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\douglas\Desktop\EncontroRemoto_06\bin\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
+C:\Users\douglas\Desktop\EncontroRemoto_06\bin\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\douglas\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.genruntimeconfig.cache
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\bin\Debug\net6.0\Cadastro Pessoa FS1.exe
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\bin\Debug\net6.0\Cadastro Pessoa FS1.deps.json
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\bin\Debug\net6.0\Cadastro Pessoa FS1.runtimeconfig.json
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\bin\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\bin\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.AssemblyReference.cache
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfoInputs.cache
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.AssemblyInfo.cs
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.csproj.CoreCompileInputs.cache
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.dll
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\obj\Debug\net6.0\refint\Cadastro Pessoa FS1.dll
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.pdb
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\obj\Debug\net6.0\Cadastro Pessoa FS1.genruntimeconfig.cache
+C:\Users\dodoc\OneDrive\Desktop\EncontroRemoto_06\obj\Debug\net6.0\ref\Cadastro Pessoa FS1.dll
