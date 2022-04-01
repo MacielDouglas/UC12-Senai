@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dodoc\\OneDrive\\Desktop\\EncontroRemoto_06\\Cadastro Pessoa FS1.csproj",
+      "projectUniqueName": "D:\\WorkSpaceSenai\\UC12-Senai\\SA02\\EncontroRemoto_08\\Cadastro Pessoa FS1.csproj",
       "projectName": "Cadastro Pessoa FS1",
-      "projectPath": "C:\\Users\\dodoc\\OneDrive\\Desktop\\EncontroRemoto_06\\Cadastro Pessoa FS1.csproj",
+      "projectPath": "D:\\WorkSpaceSenai\\UC12-Senai\\SA02\\EncontroRemoto_08\\Cadastro Pessoa FS1.csproj",
       "packagesPath": "C:\\Users\\dodoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dodoc\\OneDrive\\Desktop\\EncontroRemoto_06\\obj\\",
+      "outputPath": "D:\\WorkSpaceSenai\\UC12-Senai\\SA02\\EncontroRemoto_08\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dodoc\\AppData\\Roaming\\NuGet\\NuGet.Config"

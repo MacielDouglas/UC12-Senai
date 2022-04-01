@@ -8,6 +8,8 @@ namespace Cadastro_Pessoa_FS1.Classes
         public string ?cpf { get; set; }
 
         public string ?dataNascimento { get; set; }
+
+        public string caminho {get; private set;} = "Database/PessoaFisica.txt";
         
         
         //Metodos pessoaFisica:
@@ -73,5 +75,40 @@ namespace Cadastro_Pessoa_FS1.Classes
             }
 
         }
+
+         public void Inserir(PessoaFisica pf){
+
+                VerificarPastaArquivo(caminho);
+
+                string[] pfString = {$"{pf.nome}, {pf.dataNascimento}, {pf.cpf}"};
+
+                File.AppendAllLines(caminho, pfString);
+            }
+
+          public List<PessoaFisica> Ler(){
+
+                List<PessoaFisica> listaPf = new List<PessoaFisica>();
+
+                string[] linhas = File.ReadAllLines(caminho);
+
+                foreach (string cadaLinha in linhas)
+                {
+                    string[] atributos = cadaLinha.Split(",");
+
+                    PessoaFisica cadaPf = new PessoaFisica();
+
+                    cadaPf.nome = atributos[0];
+                    cadaPf.dataNascimento = atributos[1];
+                    cadaPf.cpf = atributos[2];
+                    
+                    
+                    listaPf.Add(cadaPf);
+                }
+                
+                return listaPf;
+            }
+
+
+
     }
 }
